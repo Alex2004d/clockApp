@@ -175,7 +175,7 @@ npx expo start --clear
 - **Botón de Configuración**: Acceso rápido a ajustes
 - **Diseño**: Números grandes y legibles con tema oscuro
 
-![Pantalla de Reloj](screenshots/IMAGEN1.jpeg)
+![Pantalla de Reloj](src/screenshots/IMAGEN1.jpeg)
 
 ### Pantalla de Cronómetro (StopwatchScreen):
 - **Medición Precisa**: Precisión de centésimas de segundo
@@ -187,7 +187,7 @@ npx expo start --clear
 - **Sistema de Vueltas**: Lista de tiempos registrados
 - **Interfaz**: Display digital grande con controles circulares
 
-![Pantalla de Cronómetro](screenshots/IMAGEN4.jpeg)
+![Pantalla de Cronómetro](src/screenshots/IMAGEN4.jpeg)
 
 ### Pantalla de Alarmas (AlarmScreen):
 - **Gestión Completa de Alarmas**:
@@ -202,7 +202,7 @@ npx expo start --clear
 - **Botón Agregar**: Crear nuevas alarmas personalizadas
 - **Tonos Disponibles**: Campana, Suave, Clásico, Digital, Melodía
 
-![Pantalla de Alarmas](screenshots/IMAGEN3.jpeg)
+![Pantalla de Alarmas](src/screenshots/IMAGEN3.jpeg)
 
 ### Pantalla de Temporizador (TimerScreen):
 - **Temporizadores Predefinidos**:
@@ -218,7 +218,7 @@ npx expo start --clear
   - Botón **Nuevo**: Crear temporizadores personalizados
 - **Notificación**: Alerta al completarse el tiempo
 
-![Pantalla de Temporizador](screenshots/IMAGEN2.jpeg)
+![Pantalla de Temporizador](src/screenshots/IMAGEN2.jpeg)
 
 ### Navegación por Pestañas:
 - **4 Pestañas Principales**: Acceso rápido a todas las funciones
@@ -375,22 +375,22 @@ npx expo install react-native-screens react-native-safe-area-context
 #### Reloj Principal
 Pantalla principal con hora en tiempo real, fecha completa y información de amanecer/atardecer.
 
-![Reloj](screenshots/IMAGEN1.jpeg)
+![Reloj](src/screenshots/IMAGEN1.jpeg)
 
 #### Temporizador
 Lista de temporizadores predefinidos y opción para crear personalizados.
 
-![Temporizador](screenshots/IMAGEN2.jpeg)
+![Temporizador](src/screenshots/IMAGEN2.jpeg)
 
 #### Alarmas
 Gestión completa de alarmas con opciones de modificación, cambio de tono y eliminación.
 
-![Alarmas](screenshots/IMAGEN3.jpeg)
+![Alarmas](src/screenshots/IMAGEN3.jpeg)
 
 #### Cronómetro
 Cronómetro con precisión de centésimas y sistema de registro de vueltas.
 
-![Cronómetro](screenshots/IMAGEN4.jpeg)
+![Cronómetro](src/screenshots/IMAGEN4.jpeg)
 
 ---
 
