@@ -187,7 +187,7 @@ npx expo start --clear
 - **Sistema de Vueltas**: Lista de tiempos registrados
 - **Interfaz**: Display digital grande con controles circulares
 
-![Pantalla de Cronómetro](src/screenshots/IMAGEN4.jpeg)
+![Pantalla de Cronómetro](src/screenshots/IMAGEN2.jpeg)
 
 ### Pantalla de Alarmas (AlarmScreen):
 - **Gestión Completa de Alarmas**:
@@ -218,7 +218,7 @@ npx expo start --clear
   - Botón **Nuevo**: Crear temporizadores personalizados
 - **Notificación**: Alerta al completarse el tiempo
 
-![Pantalla de Temporizador](src/screenshots/IMAGEN2.jpeg)
+![Pantalla de Temporizador](src/screenshots/IMAGEN4.jpeg)
 
 ### Navegación por Pestañas:
 - **4 Pestañas Principales**: Acceso rápido a todas las funciones
@@ -380,7 +380,7 @@ Pantalla principal con hora en tiempo real, fecha completa y información de ama
 #### Temporizador
 Lista de temporizadores predefinidos y opción para crear personalizados.
 
-![Temporizador](src/screenshots/IMAGEN2.jpeg)
+![Temporizador](src/screenshots/IMAGEN4.jpeg)
 
 #### Alarmas
 Gestión completa de alarmas con opciones de modificación, cambio de tono y eliminación.
@@ -390,7 +390,7 @@ Gestión completa de alarmas con opciones de modificación, cambio de tono y eli
 #### Cronómetro
 Cronómetro con precisión de centésimas y sistema de registro de vueltas.
 
-![Cronómetro](src/screenshots/IMAGEN4.jpeg)
+![Cronómetro](src/screenshots/IMAGEN2.jpeg)
 
 ---
 
